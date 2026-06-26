@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer calculator body with a premium styling -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M38,22 h32 c4.4,0 8,3.6 8,8 v48 c0,4.4 -3.6,8 -8,8 h-32 c-4.4,0 -8,-3.6 -8,-8 v-48 c0,-4.4 3.6,-8 8,-8 z" />
+        
+    <!-- Dark screen area -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M34,30 h40 v14 h-40 z" />
+        
+    <!-- Infinity symbol inside the screen (Teal/Cyan color) -->
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M 46,33 C 43.8,33 42,34.8 42,37 C 42,39.2 43.8,41 46,41 C 47.7,41 49.2,39.7 50,38.5 C 50.8,39.7 52.3,41 54,41 C 56.2,41 58,39.2 58,37 C 58,34.8 56.2,33 54,33 C 52.3,33 50.8,34.3 50,35.5 C 49.2,34.3 47.7,33 46,33 Z M 46,35 C 47.1,35 48,35.9 48,37 C 48,38.1 47.1,39 46,39 C 44.9,39 44,38.1 44,37 C 44,35.9 44.9,35 46,35 Z M 54,35 C 55.1,35 56,35.9 56,37 C 56,38.1 55.1,39 54,39 C 52.9,39 52,38.1 52,37 C 52,35.9 52.9,35 54,35 Z" />
+
+    <!-- Button circles in accent colors -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M37,52 A3,3 0 1,1 37,58 A3,3 0 1,1 37,52" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M51,52 A3,3 0 1,1 51,58 A3,3 0 1,1 51,52" />
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M65,52 A3,3 0 1,1 65,58 A3,3 0 1,1 65,52" />
+
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M37,64 A3,3 0 1,1 37,70 A3,3 0 1,1 37,64" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M51,64 A3,3 0 1,1 51,70 A3,3 0 1,1 51,64" />
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M65,64 A3,3 0 1,1 65,70 A3,3 0 1,1 65,64" />
+
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M37,76 A3,3 0 1,1 37,82 A3,3 0 1,1 37,76" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M51,76 A3,3 0 1,1 51,82 A3,3 0 1,1 51,76" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M65,76 A3,3 0 1,1 65,82 A3,3 0 1,1 65,76" />
+</vector>

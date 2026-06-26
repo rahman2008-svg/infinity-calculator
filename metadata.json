@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Calculator",
+  "description": "All-in-One Smart Calculator & Converter. Features standard, scientific, financial, unit, programmer, health, and date calculators with robust history, notes, and beautiful themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
